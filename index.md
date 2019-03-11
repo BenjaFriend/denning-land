@@ -3,7 +3,7 @@ layout: page
 ---
 # Denning Land
 
-![House image]({{ site.baseurl }}\media\house_front.jpg)
+![House image]({{ site.url }}\media\house_front.jpg)
 
 # Housing Info
 

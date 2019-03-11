@@ -16,8 +16,8 @@
 title: Denning Land
 description: >- # this means to ignore newlines until "baseurl:"
   The Denning family is taking a vaction to the Seneca lakes!
-baseurl: "/denning-land" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "//benjafriend.github.io/denning-land" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: BenjaFriend
 github_username:  BenjaFriend
 
