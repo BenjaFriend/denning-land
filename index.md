@@ -1,6 +1,7 @@
 ---
 layout: page
 ---
+# Denning Land
 
 # Housing Info
 
@@ -10,15 +11,15 @@ Address: [Dreaming a View, 77 Charles St, Dresden, NY 14441](https://goo.gl/maps
 
 * 4 bedrooms, 3.5 baths
 
-# Dates
+## Dates
 We have the house from April 17 to April 22
 
 
-# Limitations 
+## Limitations 
 * No smoking indoors
 * No pets
 
 
-# Problem? 
+## Problem? 
 
 If you have a problem or question about the house, then please contact Cayla. 
