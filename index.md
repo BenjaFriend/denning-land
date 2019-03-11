@@ -1,6 +1,24 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
+layout: page
 ---
+
+# Housing Info
+
+House Name: Dreaming a View
+
+Address: [Dreaming a View, 77 Charles St, Dresden, NY 14441](https://goo.gl/maps/sJWsM83KwsS2)
+
+* 4 bedrooms, 3.5 baths
+
+# Dates
+We have the house from April 17 to April 22
+
+
+# Limitations 
+* No smoking indoors
+* No pets
+
+
+# Problem? 
+
+If you have a problem or question about the house, then please contact Cayla. 
