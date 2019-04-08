@@ -178,6 +178,12 @@ pre {
     #mainContent img {
         width: 300px;
     }
+
+    div.container a {
+        font-size: 18px;
+        margin: 0px 5px;
+        padding: 3px 3px;
+    }
 }
 
 /** Moible adjustments */
@@ -189,6 +195,12 @@ pre {
     .nav-bucket {
         padding: 5px;
         float: none;
+    }
+
+    div.container a {
+        font-size: 18px;
+        margin: 0px 5px;
+        padding: 3px 3px;
     }
 
     #mainContent {
