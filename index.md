@@ -10,7 +10,7 @@ layout: page
 
 House Name: Dreaming a View
 
-Address: [Dreaming a View, 77 Charles St, Dresden, NY 14441](https://goo.gl/maps/sJWsM83KwsS2)
+<i class="material-icons">directions</i> Address: [Dreaming a View, 77 Charles St, Dresden, NY 14441](https://goo.gl/maps/sJWsM83KwsS2)
 
 <i class="material-icons">domain</i> 4 bedrooms, 3.5 baths
 
