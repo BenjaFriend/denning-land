@@ -165,6 +165,13 @@ pre {
 	overflow-x: auto;
 }
 
+/** Center an image on this site */
+#mainContent img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 /* Tablet kinda adjustments */
 @media screen and (max-width: 910px) {
     #mainContent {
@@ -193,14 +200,14 @@ pre {
     }
 
     .nav-bucket {
-        padding: 5px;
+        padding: 3px;
         float: none;
     }
 
     div.container a {
         font-size: 18px;
-        margin: 0px 5px;
-        padding: 3px 3px;
+        margin: 0px 3px;
+        padding: 2px 2px;
     }
 
     #mainContent {

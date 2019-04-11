@@ -23,7 +23,8 @@ We have the house from April 17 to April 22
 
 ## Limitations
 <i class="material-icons">smoke_free</i> No smoking indoors
-No pets
+
+<i class="material-icons">pets</i>No pets
 
 
 ## Problem?
