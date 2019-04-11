@@ -2,9 +2,8 @@
 
 * {
   font-family: 'Open Sans', sans-serif;
-
-
 }
+
 body {
   overflow-x:hidden;
   background-color: white;
@@ -28,7 +27,6 @@ p, ul, li {
     font-family: 'Eczar', serif;
     opacity: 0.8;
 }
-
 
 /** CSS transitions from here: https://codepen.io/EvyatarDa/pen/waKXMd */
 
@@ -165,6 +163,10 @@ pre {
 	overflow-x: auto;
 }
 
+#navText {
+    display: inline-block;
+}
+
 /** Center an image on this site */
 #mainContent img {
     display: block;
@@ -188,21 +190,13 @@ pre {
 
     div.container a {
         font-size: 18px;
-        margin: 0px 5px;
-        padding: 3px 3px;
+        margin: 0px 1px;
+        padding: 1px 1px;
     }
 }
 
 /** Moible adjustments */
 @media screen and (max-width: 400px) {
-    .nav-items {
-        text-align: center;
-    }
-
-    .nav-bucket {
-        padding: 3px;
-        float: none;
-    }
 
     div.container a {
         font-size: 18px;
